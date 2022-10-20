@@ -39,6 +39,12 @@ const linksData = [
     link: "/#/form",
   },
   {
+    title: "Recomendação",
+    caption: "Carro Recomendado",
+    icon: "favorite",
+    link: "/#/recommendation",
+  },
+  {
     title: "Gráficos",
     caption: "Módulo de Gestão",
     icon: "code",
