@@ -36,19 +36,19 @@ const linksData = [
     title: "Form",
     caption: "Descubra seu carro ideal",
     icon: "school",
-    link: "/#/form",
+    link: "/ford-quasarV1/#/form",
   },
   {
     title: "Recomendação",
     caption: "Carro Recomendado",
     icon: "favorite",
-    link: "/#/recommendation",
+    link: "/ford-quasarV1/#/recommendation",
   },
   {
     title: "Gráficos",
     caption: "Módulo de Gestão",
     icon: "code",
-    link: "/#/tableau",
+    link: "/ford-quasarV1/#/tableau",
   },
 ];
 
