@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: "EssentialLink",
+  name: "Links Essenciais",
   props: {
     title: {
       type: String,
