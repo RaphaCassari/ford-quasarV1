@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "./ford-quasarV1/",
     "paths": {
       "src/*": [
         "src/*"
