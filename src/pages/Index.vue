@@ -2,14 +2,14 @@
   <q-page class="flex flex-center">
     <img
       alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
+      src="~assets/fiap-ford.png"
+      style="width: 900px; height: 400px"
+    />
   </q-page>
 </template>
 
 <script>
 export default {
-  name: 'PageIndex',
-}
+  name: "PageIndex",
+};
 </script>
